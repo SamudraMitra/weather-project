@@ -1,0 +1,17 @@
+
+.container{
+  display: inline-block;
+  max-width: 1400px;
+  background-color: #DFF6FF;
+  padding: 40px;
+  height: 450px;
+
+}
+.header{
+  padding: 20px;
+}
+body{
+  background-color: #47B5FF;
+  font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+}
